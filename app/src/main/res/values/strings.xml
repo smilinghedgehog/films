@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Films</string>
+
+    <string name="search_view_hint">Поиск фильма по названию</string>
+    <string name="search_failed_message">По вашему запросу \"%s\" ничего не найдено</string>
+    <string name="error_message">Нам не удалось обработать ваш запрос. Попробуйте ещё раз</string>
+    <string name="snackbar_message">Проверьте ваше соединение с интернетом и попробуйте ещё раз</string>
+</resources>

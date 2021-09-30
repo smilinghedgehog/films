@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_color">#000000</color>
+    <color name="gray_text_color">#8B000000</color>
+    <color name="error_text_color">#B4B4B4</color>
+
+    <color name="background_color">#1C1D1F</color>
+    <color name="progress_color">#004FFF</color>
+</resources>
